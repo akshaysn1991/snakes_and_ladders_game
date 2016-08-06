@@ -40,7 +40,7 @@ class Game
   end
 end
 
-players = ["Akshay", "Shashi", "prasad"]
+players = ["Akshay", "Akash", "Bharath"]
 game = Game.new(players)
 # game = Game.new(players, 50) // you can set your board size
 game.play
